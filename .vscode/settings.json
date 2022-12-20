@@ -1,6 +1,12 @@
 {
-    "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "ostream": "cpp"
+        "*.tsx": "typescriptreact",
+        "cmath": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp",
+        "xstring": "cpp",
+        "map": "cpp",
+        "iostream": "cpp"
     }
 }
